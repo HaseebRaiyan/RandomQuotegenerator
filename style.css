@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    margin-top: 20px;
+  }
+  
+  #generate-btn {
+    margin-top: 20px;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    background-color: #008CBA;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  #generate-btn:hover {
+    background-color: #007A99;
+  }
+  
+  #quote {
+    margin-top: 20px;
+    font-size: 24px;
+    font-style: italic;
+  }
+  
